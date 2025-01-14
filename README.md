@@ -13,6 +13,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khyal-d&show_icons=true&locale=en&layout=compact&theme=radical" alt="khyal-d" /></p>
 
 <p align="left">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=khyal-d&show_icons=true&locale=en&layout=compact&theme=radical" alt="khyal-d" />
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=khyal-d&show_icons=true&locale=en&layout=compact&theme=radical" alt="" />
 </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khyal-d&label=Profile%20views&color=0e75b6&style=flat" alt="khyal-d" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khyal-d&label=Profile%20views&color=0e75b6&style=flat" alt="khyal-d" /> </p>
